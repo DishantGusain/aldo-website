@@ -31,7 +31,7 @@ export default function Home() {
                   <span className="font-bold">15 Years!</span>
                </h2>
 
-               <p className="space-y-2">
+               <div className="space-y-2">
                   <h2 className="">
                      We specialize in crafting high-quality Mortise Rose Knobs,
                      Cabinet Locks, Cylinders, and Pull Handles.
@@ -53,7 +53,7 @@ export default function Home() {
                         &#45; Unmatched Quality Control & Support
                      </li>
                   </ol>
-               </p>
+               </div>
 
                <h2 className="">
                   Choose
